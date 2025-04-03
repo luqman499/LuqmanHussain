@@ -57,15 +57,17 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="41" height="30" alt="patreon logo"  />
 </div>
 
-
+<p>&nbsp;</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=luqman499&label=Profile%20views&color=0e75b6&style=flat" alt="luqman499" /> 
 </p>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luqman499&show_icons=true&locale=en&layout=compact" alt="luqman499" />
+<p align="left">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=luqman499&show_icons=true&locale=en&layout=compact" alt="luqman499" />
 </p>
 
 <p>&nbsp;</p>
