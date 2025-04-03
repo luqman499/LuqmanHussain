@@ -3,7 +3,7 @@
 <div align="center"><img src="fullstack.gif"></div>
 
 <h1 align="center">Hi 👋, I'm Luqman Hussain</h1>
-<h3 align="center">A passionate Laravel Full Stack developer from Pakistan</h3>
+<h3 align="center">A Dedicated Full-Stack Laravel & Flutter Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -40,7 +40,6 @@
   </a>
 </p>
 
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=luqman499&label=Profile%20views&color=0e75b6&style=flat" alt="luqman499" /> 
 </p>
@@ -50,7 +49,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=luqman499" alt="luqman499" />
   </a> 
 </p>
-
 
 🌱 **Currently Learning**: Advancing my expertise in **Flutter and Laravel backend development**, focusing on performance optimization and best practices.
 
@@ -98,3 +96,13 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luqman499&" alt="luqman499" />
 </p>
+
+### ₊˚ʚ ᗢ₊˚✧ ﾟ. GIFs
+
+![cartoon-629_256](https://github.com/hsynsvm/hsynsvm/assets/148003585/da2835fc-abec-4938-9468-77dfcabc75d5)
+![earth-night-1918_256](https://github.com/hsynsvm/hsynsvm/assets/148003585/5c476bf0-da7c-427a-b1fa-4cd13795d540)
+![virus-631_256](https://github.com/hsynsvm/hsynsvm/assets/148003585/bba25792-75a6-431b-b250-da2659ab27f7)
+
+![eye-12452_256](https://github.com/hsynsvm/hsynsvm/assets/148003585/eaf90393-87f5-40cf-94ed-62f8e36403fe)
+![eagle-10679_256](https://github.com/hsynsvm/hsynsvm/assets/148003585/0364888a-7b6f-4e89-8e7c-9587a56c35c4)
+![swan-11456_256](https://github.com/hsynsvm/hsynsvm/assets/148003585/78033dec-0e74-4ce3-af52-1277dd0f7c36)
