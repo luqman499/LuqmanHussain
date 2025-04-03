@@ -63,8 +63,7 @@
 ⚡ **Fun Fact**: I enjoy problem-solving and exploring creative coding solutions while keeping the process enjoyable!
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-
+<p align="center">
   <a href="https://wa.me/YOUR_NUMBER" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="40" height="40" style="margin-right: 10px;"/> 
   </a>  
@@ -80,7 +79,8 @@
   <a href="https://t.me/YOUR_USERNAME" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="40" height="40" style="margin-right: 10px;"/> 
   </a>  
- </p>
+</p>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luqman499&show_icons=true&locale=en&layout=compact" alt="luqman499" />
 </p>
