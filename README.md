@@ -58,13 +58,11 @@
 </div>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=luqman499&label=Profile%20views&color=0e75b6&style=flat" alt="luqman499" /> 
 </p>
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <p>
