@@ -72,7 +72,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=luqman499" alt="luqman499" />
   </a> 
 </p>
+
 <p>&nbsp;</p>
+
 🌱 **Currently Learning**: Advancing my expertise in **Flutter and Laravel backend development**, focusing on performance optimization and best practices.
 
 👯**Open to Collaboration**: Seeking opportunities to collaborate on innovative projects related to Flutter and Laravel development.
