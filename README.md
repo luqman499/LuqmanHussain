@@ -2,8 +2,8 @@
 <br>
 <div align="center"><img src="fullstack.gif"></div>
 
-<h1 align="center">Hi 👋, I'm Luqman Hussain</h1>
-<h3 align="center">A Dedicated Full-Stack Laravel & Flutter Developer</h3>
+<h1 align="center">Hi 👋, I'm Luqman Hussain..</h1>
+<h3 align="center">A Dedicated Full-Stack Laravel & Flutter Developer...</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
