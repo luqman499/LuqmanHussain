@@ -88,7 +88,7 @@ Let's build something great together!
 **Looking to Grow In**: Building high-performance, feature-rich mobile applications using Flutter.
 **Technical Stack**: Laravel, Flutter, HTML, CSS, JavaScript, Git, GitHub.
 **Fun Fact**: I love solving problems and finding creative, efficient coding solutions — while keeping things fun!
-**Currently Learning**: Advancing my expertise in **Flutter and Laravel backend development**, focusing on performance optimization and best practices.
+🔧**Currently Learning**: Advancing my expertise in **Flutter and Laravel backend development**, focusing on performance optimization and best practices.
 
 👯**Open to Collaboration**: Eager to join innovative projects in Flutter and Laravel development.
 
