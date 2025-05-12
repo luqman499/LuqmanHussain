@@ -7,9 +7,6 @@
 Hi there! I'm a passionate full-stack developer with expertise in building scalable web and mobile applications using Laravel for backend and Flutter for cross-platform mobile development.
 I enjoy solving real-world problems with clean, efficient code and delivering seamless user experiences.
 Let's build something great together!
-<h3>
-<p> Available for freelance and full-time opportunities</p>
-<p>Reach me at: luqmanjaffary79@gmail.com</p>
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -82,23 +79,14 @@ Let's build something great together!
 
 <p>&nbsp;</p>
 
-**Currently Learning**: Deepening expertise in Flutter and Laravel, with a focus on performance optimization and best practices.
+**Currently Learning**: Seeking opportunities to collaborate on innovative projects related to Flutter and Laravel development.
 
 **Open to Collaboration**: Eager to join innovative projects in Flutter and Laravel development.
 **Looking to Grow In**: Building high-performance, feature-rich mobile applications using Flutter.
 **Technical Stack**: Laravel, Flutter, HTML, CSS, JavaScript, Git, GitHub.
 **Fun Fact**: I love solving problems and finding creative, efficient coding solutions — while keeping things fun!
 **Currently Learning**: Advancing my expertise in **Flutter and Laravel backend development**, focusing on performance optimization and best practices.
-
-👯**Open to Collaboration**: Seeking opportunities to collaborate on innovative projects related to Flutter and Laravel development.
-
-🤝 **Looking for Support In**: Enhancing my skills in Flutter to build high-performance and feature-rich mobile applications.
-
-💬 **Technical Expertise**: Proficient in Laravel, Flutter, HTML, CSS, JavaScript, Git, and GitHub.
-
-📫 **Get in Touch**: Feel free to reach out at **luqmanjaffary79@gmail.com** for collaborations, discussions, or networking.
-
-⚡ **Fun Fact**: I enjoy problem-solving and exploring creative coding solutions while keeping the process enjoyable!
+**Get in Touch**: Feel free to reach out at **luqmanjaffary79@gmail.com** for collaborations, discussions, or networking.
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luqman499&show_icons=true&locale=en" alt="luqman499" />
