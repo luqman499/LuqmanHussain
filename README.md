@@ -7,6 +7,9 @@
 Hi there! I'm a passionate full-stack developer with expertise in building scalable web and mobile applications using Laravel for backend and Flutter for cross-platform mobile development.
 I enjoy solving real-world problems with clean, efficient code and delivering seamless user experiences.
 Let's build something great together!
+<h3>
+<p> Available for freelance and full-time opportunities</p>
+<p>Reach me at: luqmanjaffary79@gmail.com</p>
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -86,7 +89,15 @@ Let's build something great together!
 **Technical Stack**: Laravel, Flutter, HTML, CSS, JavaScript, Git, GitHub.
 **Fun Fact**: I love solving problems and finding creative, efficient coding solutions — while keeping things fun!
 **Currently Learning**: Advancing my expertise in **Flutter and Laravel backend development**, focusing on performance optimization and best practices.
-**Get in Touch**: Feel free to reach out at **luqmanjaffary79@gmail.com** for collaborations, discussions, or networking.
+
+
+🤝 **Looking for Support In**: Enhancing my skills in Flutter to build high-performance and feature-rich mobile applications.
+
+💬 **Technical Expertise**: Proficient in Laravel, Flutter, HTML, CSS, JavaScript, Git, and GitHub.
+
+📫 
+
+⚡ **Fun Fact**: I enjoy problem-solving and exploring creative coding solutions while keeping the process enjoyable!
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luqman499&show_icons=true&locale=en" alt="luqman499" />
