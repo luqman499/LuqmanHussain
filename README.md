@@ -10,7 +10,6 @@ Let's build something great together!
 <p> Available for freelance and full-time opportunities</p>
 <p>Reach me at: luqmanjaffary79@gmail.com</p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -80,12 +79,14 @@ Let's build something great together!
 </p>
 
 <p>&nbsp;</p>
+<ul>
 
  **Currently Learning**: Deepening expertise in Flutter and Laravel, with a focus on performance optimization and best practices.
  **Open to Collaboration**: Eager to join innovative projects in Flutter and Laravel development.
 **Looking to Grow In**: Building high-performance, feature-rich mobile applications using Flutter.
 **Technical Stack**: Laravel, Flutter, HTML, CSS, JavaScript, Git, GitHub.
 **Fun Fact**: I love solving problems and finding creative, efficient coding solutions — while keeping things fun!
+</ul>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luqman499&show_icons=true&locale=en" alt="luqman499" />
 </p>
