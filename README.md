@@ -4,12 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm Luqman Hussain</h1>
 <h3 align="center">
-Hi there! I'm a passionate full-stack developer with expertise in building scalable web and mobile applications using Laravel for backend and Flutter for cross-platform mobile development.
-I enjoy solving real-world problems with clean, efficient code and delivering seamless user experiences.
-Let's build something great together!
-<h3>
-<p> Available for freelance and full-time opportunities</p>
-<p>Reach me at: luqmanjaffary79@gmail.com</p>
+Hi there! I'm a passionate full-stack developer | focused on building scalable, efficient, and impactful web and mobile applications.
+I specialize in Laravel for robust backend solutions | and Flutter for smooth cross-platform mobile development.
+I enjoy solving real-world problems | through clean architecture | optimized code | and seamless user experiences.
+| Let’s build something great together | deliver value | and turn ideas into reality.
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
