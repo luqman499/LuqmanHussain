@@ -90,9 +90,9 @@ Let's build something great together!
 **Fun Fact**: I love solving problems and finding creative, efficient coding solutions — while keeping things fun!
 **Currently Learning**: Advancing my expertise in **Flutter and Laravel backend development**, focusing on performance optimization and best practices.
 
-👯**Open to Collaboration**: Seeking opportunities to collaborate on innovative projects related to Flutter and Laravel development.
+👯**Open to Collaboration**: Eager to join innovative projects in Flutter and Laravel development.
 
-🤝 **Looking for Support In**: Enhancing my skills in Flutter to build high-performance and feature-rich mobile applications.
+🤝 **Looking to Grow In**: Building high-performance, feature-rich mobile applications using Flutter.
 
 💬 **Technical Expertise**: Proficient in Laravel, Flutter, HTML, CSS, JavaScript, Git, and GitHub.
 
