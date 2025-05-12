@@ -81,7 +81,9 @@ Let's build something great together!
 <p>&nbsp;</p>
 <ul>
 
+<li>
  **Currently Learning**: Deepening expertise in Flutter and Laravel, with a focus on performance optimization and best practices.
+</li>
  **Open to Collaboration**: Eager to join innovative projects in Flutter and Laravel development.
 **Looking to Grow In**: Building high-performance, feature-rich mobile applications using Flutter.
 **Technical Stack**: Laravel, Flutter, HTML, CSS, JavaScript, Git, GitHub.
