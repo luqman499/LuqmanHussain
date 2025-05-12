@@ -82,7 +82,7 @@ Let's build something great together!
 
 <p>&nbsp;</p>
 
-**Currently Learning**: Seeking opportunities to collaborate on innovative projects related to Flutter and Laravel development.
+**Currently Learning**: Deepening expertise in Flutter and Laravel, with a focus on performance optimization and best practices.
 
 **Open to Collaboration**: Eager to join innovative projects in Flutter and Laravel development.
 **Looking to Grow In**: Building high-performance, feature-rich mobile applications using Flutter.
@@ -90,14 +90,16 @@ Let's build something great together!
 **Fun Fact**: I love solving problems and finding creative, efficient coding solutions — while keeping things fun!
 **Currently Learning**: Advancing my expertise in **Flutter and Laravel backend development**, focusing on performance optimization and best practices.
 
+👯**Open to Collaboration**: Seeking opportunities to collaborate on innovative projects related to Flutter and Laravel development.
 
 🤝 **Looking for Support In**: Enhancing my skills in Flutter to build high-performance and feature-rich mobile applications.
 
 💬 **Technical Expertise**: Proficient in Laravel, Flutter, HTML, CSS, JavaScript, Git, and GitHub.
 
-📫 
+📫 **Get in Touch**: Feel free to reach out at **luqmanjaffary79@gmail.com** for collaborations, discussions, or networking.
 
 ⚡ **Fun Fact**: I enjoy problem-solving and exploring creative coding solutions while keeping the process enjoyable!
+
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luqman499&show_icons=true&locale=en" alt="luqman499" />
