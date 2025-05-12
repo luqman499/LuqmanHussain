@@ -3,7 +3,12 @@
 <div align="center"><img src="fullstack.gif"></div>
 
 <h1 align="center">Hi 👋, I'm Luqman Hussain</h1>
-<h3 align="center">A Dedicated Full-Stack Laravel & Flutter Developer</h3>
+<h3 align="center">A Dedicated Full-Stack Laravel & Flutter Developer
+Hi there! I'm a passionate full-stack developer with expertise in building scalable web and mobile applications using Laravel for backend and Flutter for cross-platform mobile development.
+I enjoy solving real-world problems with clean, efficient code and delivering seamless user experiences.
+Let's build something great together!
+💼 Available for freelance and full-time opportunities
+📫 Reach me at: luqmanjaffary79@gmail.com</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -75,18 +80,11 @@
 
 <p>&nbsp;</p>
 
-🌱 **Currently Learning**: Advancing my expertise in **Flutter and Laravel backend development**, focusing on performance optimization and best practices.
-
-👯**Open to Collaboration**: Seeking opportunities to collaborate on innovative projects related to Flutter and Laravel development.
-
-🤝 **Looking for Support In**: Enhancing my skills in Flutter to build high-performance and feature-rich mobile applications.
-
-💬 **Technical Expertise**: Proficient in Laravel, Flutter, HTML, CSS, JavaScript, Git, and GitHub.
-
-📫 **Get in Touch**: Feel free to reach out at **luqmanjaffary79@gmail.com** for collaborations, discussions, or networking.
-
-⚡ **Fun Fact**: I enjoy problem-solving and exploring creative coding solutions while keeping the process enjoyable!
-
+ **Currently Learning**: Deepening expertise in Flutter and Laravel, with a focus on performance optimization and best practices.
+ **Open to Collaboration**: Eager to join innovative projects in Flutter and Laravel development.
+**Looking to Grow In**: Building high-performance, feature-rich mobile applications using Flutter.
+**Technical Stack**: Laravel, Flutter, HTML, CSS, JavaScript, Git, GitHub.
+**Fun Fact**: I love solving problems and finding creative, efficient coding solutions — while keeping things fun!
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luqman499&show_icons=true&locale=en" alt="luqman499" />
 </p>
