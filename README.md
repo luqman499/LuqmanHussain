@@ -45,6 +45,10 @@ Let's build something great together.
 
 ###
 
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luqman499&" alt="luqman499" />
+</p>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="41" height="30" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="41" height="30" alt="twitter logo"  />
@@ -101,9 +105,7 @@ Let's build something great together.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luqman499&" alt="luqman499" />
-</p>
+
 
 ### ₊˚ʚ ᗢ₊˚✧ ﾟ. GIFs
 
