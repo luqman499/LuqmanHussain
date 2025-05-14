@@ -95,7 +95,8 @@ Let's build something great together.
 
 ⚡ **Fun Fact**: I enjoy problem-solving and exploring creative coding solutions while keeping the process enjoyable!
 
-<p>&nbsp;
+<p>&nbsp;</p>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luqman499&show_icons=true&locale=en" alt="luqman499" />
 </p>
 
