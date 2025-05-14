@@ -81,6 +81,9 @@ Let's build something great together.
   </a> 
 </p>
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luqman499&show_icons=true&locale=en" alt="luqman499" />
+</p>
 <p>&nbsp;</p>
 
 🔧**Currently Learning**: Advancing my expertise in **Flutter and Laravel backend development**, focusing on performance optimization and best practices.
