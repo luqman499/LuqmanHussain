@@ -45,10 +45,6 @@ Let's build something great together.
 
 ###
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luqman499&" alt="luqman499" />
-</p>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="41" height="30" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="41" height="30" alt="twitter logo"  />
@@ -65,6 +61,10 @@ Let's build something great together.
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="41" height="30" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="41" height="30" alt="patreon logo"  />
 </div>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luqman499&" alt="luqman499" />
+</p>
 
 <p>&nbsp;</p>
 
@@ -96,7 +96,6 @@ Let's build something great together.
 
 ⚡ **Fun Fact**: I enjoy problem-solving and exploring creative coding solutions while keeping the process enjoyable!
 
-
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luqman499&show_icons=true&locale=en" alt="luqman499" />
 </p>
@@ -104,8 +103,6 @@ Let's build something great together.
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 
 ### ₊˚ʚ ᗢ₊˚✧ ﾟ. GIFs
 
