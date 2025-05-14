@@ -62,15 +62,13 @@ Let's build something great together.
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="41" height="30" alt="patreon logo"  />
 </div>
 
-
-
 <p>&nbsp;</p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=luqman499&label=Profile%20views&color=0e75b6&style=flat" alt="luqman499" /> 
+</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luqman499&" alt="luqman499" />
-</p>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=luqman499&label=Profile%20views&color=0e75b6&style=flat" alt="luqman499" /> 
 </p>
 
 <p align="left">
